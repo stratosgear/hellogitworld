@@ -3,3 +3,6 @@
 output/
 build/
 target/
+.history/
+.devenv
+.direnv
