@@ -3,6 +3,8 @@
 output/
 build/
 target/
+
+# Added by Stratos
 .history/
 .devenv
 .direnv
